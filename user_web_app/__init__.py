@@ -1,0 +1,1 @@
+#fault_app_config = 'user_web_app.apps.UserWebAppConfig'
